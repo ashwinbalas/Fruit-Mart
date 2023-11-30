@@ -489,6 +489,7 @@ html {
   background-color: #1A5D1A;
   border: none;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .footer {
